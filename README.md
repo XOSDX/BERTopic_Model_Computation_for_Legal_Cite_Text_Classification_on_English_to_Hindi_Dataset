@@ -2,6 +2,8 @@
 
 This repository contains code and resources for a project to classify legal citation text using the BERTopic model on an English-to-Hindi legal dataset. The project uses the BERTopic algorithm to effectively group and classify legal text for citation prediction and analysis.
 
+Access the code from: https://github.com/XOSDX/BERTopic_Model_Computation_for_Legal_Cite_Text_Classification_on_English_to_Hindi_Dataset/blob/main/BERTopic_Model_Computation_for_Legal_Cite_Text_Classification_on_English_to_Hindi_Dataset.ipynb
+
 ## Table of Contents
 
 - [Overview](#overview)
