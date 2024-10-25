@@ -28,6 +28,8 @@ The dataset consists of English-to-Hindi legal texts, formatted to include citat
 
 - **Data Format**: Text data with citation labels.
 - **Data Preprocessing**: Tokenization, language translation consistency checks, removal of non-essential metadata, and multilingual embedding preparation.
+
+- Dataset is accessible from the link -> https://www.kaggle.com/datasets/kuldeepsingharya/english-to-hindi-parallel-dataset
   
 ## Model
 
