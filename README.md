@@ -1,6 +1,6 @@
 # BERTopic Model Computation for Legal Cite Text Classification on English to Hindi Dataset
 
-This repository contains code and resources for a project aimed at performing legal citation text classification using the BERTopic model on an English-to-Hindi legal dataset. The project focuses on leveraging the BERTopic algorithm to effectively group and classify legal text for citation prediction and analysis.
+This repository contains code and resources for a project to classify legal citation text using the BERTopic model on an English-to-Hindi legal dataset. The project uses the BERTopic algorithm to effectively group and classify legal text for citation prediction and analysis.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ BERTopic is a state-of-the-art topic modeling approach that utilizes embeddings 
 2. Install the required packages:
    pip install -r requirements.txt
 
-#Results
+## Results
 The model was evaluated using the following metrics:
 
 Topic Coherence: Ensures topics are meaningful and interpretable.
@@ -63,5 +63,5 @@ Accuracy: Measures classification performance based on citation labels.
 Silhouette Score: Validates clustering quality.
 For more detailed results, see the Results directory.
 
-#Contributions
+## Contributions
 Contributions are welcome! Please submit a pull request or create an issue for any improvements, feature requests, or bug fixes.
