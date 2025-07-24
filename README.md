@@ -2,7 +2,9 @@
 
 This repository contains code and resources for a project to categorize the text using the BERTopic model on an English-to-Hindi legal dataset. The project uses the BERTopic algorithm to effectively group and classify text for prediction and analysis, and also help us analyze the weightage and importance of the words in the sentences in different languages in multiple possible cases.
 
-Access the code from: https://github.com/XOSDX/BERTopic_Model_Computation_for_Legal_Cite_Text_Classification_on_English_to_Hindi_Dataset/blob/main/BERTopic_Model_Computation_for_Legal_Cite_Text_Classification_on_English_to_Hindi_Dataset.ipynb
+Access the code from: 
+https://github.com/XOSDX/BERTopic_Model_Computation_for_Legal_Cite_Text_Classification_on_English_to_Hindi_Dataset/blob/main/BERTopic_Model_Computation_for_Text_Categorization_and_Classification_on_English_to_Hindi_Dataset.ipynb
+https://colab.research.google.com/drive/1gUmACsK2jtqXZV12u0XAD_AxuoOOZf32?usp=sharing
 
 ## Table of Contents
 
