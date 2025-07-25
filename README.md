@@ -1,4 +1,4 @@
-# BERTopic Model Computation for Legal Cite Text Categorization on English to Hindi Dataset
+# BERTopic Model Computation for Text Categorization on English to Hindi Dataset
 
 This repository contains code and resources for a project to categorize the text using the BERTopic model on an English-to-Hindi legal dataset. The project uses the BERTopic algorithm to effectively group and classify text for prediction and analysis, and also help us analyze the weightage and importance of the words in the sentences in different languages in multiple possible cases.
 
